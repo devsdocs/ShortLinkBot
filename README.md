@@ -15,7 +15,7 @@
 
 - clone the repository, locally.
 ```sh
-git clone https://GitLab.com/SpEcHiDe/ShortLinkBot.git -b aiogram
+git clone https://github.com/devsdocs/ShortLinkBot.git -b aiogram
 ```
 
 - change the directory.
